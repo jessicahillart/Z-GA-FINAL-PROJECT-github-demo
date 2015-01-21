@@ -120,13 +120,6 @@ header h3 {
 }
 
 
-.fixed-nav-bar li, .fixed-nav-bar a { 
-  height: 50px;
-  line-height: 80px;
-  text-decoration: none;
-  text-align: right;
-  letter-spacing: 3px;
-}
 .menu {
   width: 90%;
   max-width: 960px;
